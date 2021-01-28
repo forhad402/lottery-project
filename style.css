@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: blue;
+    background-color: lightgray;
+}
+.card-group{
+    float: left;
+}
+.card{
+    height: 600px;
+    width: 1200px;
+}
+.card img{
+    padding: 50px;
+    width: 500px;
+    height: 500px;
+}
